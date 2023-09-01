@@ -16,7 +16,7 @@ The company has faced financial crisis because of excessive energy consumption, 
 
 # Data Cleaning and Transformation:  
   The data was in a excel format which I import in a power bi desktop application and used power query editor to scrub the data. Following were the steps I took:
-•	Used first row as headers in Building master 
+•	Used first row as headers in Building master <br>
 •	Remove Duplicate records 
 •	In energy consumption table, I will transform columns Water consumption, Gas consumption and Electricity consumption into one column Consumption_type using unpivot. 
 •	Using replace values option I will remove consumption from the Consumption_type column’s values. 
