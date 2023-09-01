@@ -42,7 +42,8 @@ Relationship modeling:
 • I used waterfall chart to show the increment of the total cost in all cities. 
 
 Main report:
-![image](https://github.com/rajni-kapoor/Energy_consumption_report/assets/123319398/d1211da8-9cd4-4370-84ee-b6e736ece790)
+![image](https://github.com/rajni-kapoor/Energy_consumption_report/assets/123319398/309d0b85-dc71-481b-bcbb-d358dfb2af21)
+
 
 
 Water consumption : 
