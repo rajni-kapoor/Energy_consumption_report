@@ -10,7 +10,9 @@ Data set: Excel work sheet
 ## Problem-Statement:  
 The company has faced financial crisis because of excessive energy consumption, and asked to analyze the data and provide insights so that management can take decision to improve the energy consumption. There are three tables Energy consumption, rates and Building master.
 
-https://github.com/rajni-kapoor/Energy_consumption_report/blob/main/Screenshot%20(208).png 
+![image](https://github.com/rajni-kapoor/Energy_consumption_report/assets/123319398/aa3973f9-da52-4347-92aa-6acebbb69022)
+
+
 
 # Data Cleaning and Transformation:  
   The data was in a excel format which I import in a power bi desktop application and used power query editor to scrub the data. Following were the steps I took:
@@ -23,7 +25,9 @@ https://github.com/rajni-kapoor/Energy_consumption_report/blob/main/Screenshot%2
 •	In the data model tab, the relationship is automatically detected among the three tables with the help of common column Building and Key. 
 •	I created DAX measure Total Cost and Unit Consumed. 
  
-https://github.com/rajni-kapoor/Energy_consumption_report/blob/main/Screenshot%20(207).png
+Relationship modeling: 
+![image](https://github.com/rajni-kapoor/Energy_consumption_report/assets/123319398/e5779f90-cf0d-41aa-86dc-0735b3e17ff1)
+
 
 # Dashboard design : 
 • The energy consumption report is 4 page report where the main page gives the overview of the report. 
@@ -37,18 +41,23 @@ https://github.com/rajni-kapoor/Energy_consumption_report/blob/main/Screenshot%2
 • I used conditional formatting to show the data bars for Unit Consumed and Tota Cost in the table. 
 • I used waterfall chart to show the increment of the total cost in all cities. 
 
+Main report:
+![image](https://github.com/rajni-kapoor/Energy_consumption_report/assets/123319398/d1211da8-9cd4-4370-84ee-b6e736ece790)
+
 
 Water consumption : 
 
-https://github.com/rajni-kapoor/Energy_consumption_report/blob/main/Screenshot%20(209).png
+![image](https://github.com/rajni-kapoor/Energy_consumption_report/assets/123319398/2e53de96-9896-4896-afe7-d6bc8230df63)
+
 
 Electricity consumption:
 
-https://github.com/rajni-kapoor/Energy_consumption_report/blob/main/Screenshot%20(210).png
+![image](https://github.com/rajni-kapoor/Energy_consumption_report/assets/123319398/1cb409fa-0bd5-4e59-b593-0ef96978acf3)
 
 Gas consumption: 
 
-https://github.com/rajni-kapoor/Energy_consumption_report/blob/main/Screenshot%20(214).png
+![image](https://github.com/rajni-kapoor/Energy_consumption_report/assets/123319398/5a09e91f-a2b2-454a-be53-6a5fe23903c1)
+
 
 
 
